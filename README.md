@@ -1,16 +1,44 @@
-# netflix
+<div align="center">
+    <img src="https://i.postimg.cc/SRw0QFYz/netflix-logo.png" width="128"  style="display: block; margin: 0 auto"/>
+    <h1>Netflix</h1>
+    <p>An Android application for streaming movies (*free)</p>
+</div>
+/*
+https://raw.githubusercontent.com/qolbudr/netflix/master/assets/images/netflix_logo.png
+https://i.postimg.cc/SRw0QFYz/netflix-logo.png
+*/
+---
 
-A new Flutter project.
+<p align="center">
+  <img src="./misc/screenshots/1.jpg" width="30%" />
+  <img src="./misc/screenshots/2.jpg" width="30%" />
+  <img src="./misc/screenshots/3.jpg" width="30%" />
 
-## Getting Started
+  <img src="./misc/screenshots/4.jpg" width="30%" />
+  <img src="./misc/screenshots/5.jpg" width="30%" />
+  <img src="./misc/screenshots/6.jpg" width="30%" />
+</p>
 
-This project is a starting point for a Flutter application.
+## Features
+- Play (almost) any movies
+- Watch trailer
+- View movies information
+- Discover movies by genre and keyword
+- Custom subtitle (\*only movies, series coming soon)
+- Save to watchlist (coming soon)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[<img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
+    alt="Get it on GitHub"
+    height="80">](https://github.com/qolbudr/netflix/releases/latest)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Acknowledgments
+- [**TMDB**](https://themoviedb.org): A website to get movie information details.
+- [**Remix Icon**](https://remixicon.com): Premium hand-crafted icons built by Remix.
+
+
+## Disclaimer
+This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with Netflix or any of its affiliates and subsidiaries.
+
+\*For educational purpose only
